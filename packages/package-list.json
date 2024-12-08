@@ -313,5 +313,14 @@
     "homepage": "https://github.com/kiliczsh/mcp-mongo-server",
     "license": "MIT",
     "runtime": "node"
+  },
+  {
+    "name": "coincap-mcp",
+    "description": "A coincap mcp server to query publicly available crypto data.",
+    "vendor": "Alex Andru (https://andru.codes)",
+    "sourceUrl": "https://github.com/QuantGeekDev/coincap-mcp",
+    "homepage": "https://github.com/QuantGeekDev/coincap-mcp",
+    "license": "MIT",
+    "runtime": "node"
   }
 ]
